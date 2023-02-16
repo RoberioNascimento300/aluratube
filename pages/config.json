@@ -1,0 +1,126 @@
+{
+    "name": "Roberio Nascimento (Devloper)",
+    "job": "Software Engineer",
+    "github": "RoberioNascimento300",
+    "playlists": {
+      "filmes": [
+          {
+            "title": "Breaking bad",
+            "url": "https://www.youtube.com/watch?v=7bVHlRORoKA",
+            "thumb": "https://img.youtube.com/vi/7bVHlRORoKA/sddefault.jpg"
+          },
+          {
+            "title": "The Good Father",
+            "url": "https://www.youtube.com/watch?v=FENrbbm_hlA",
+            "thumb": "https://img.youtube.com/vi/FENrbbm_hlA/sddefault.jpg"
+          },
+          {
+            "title": "Top Gun",
+            "url": "https://www.youtube.com/watch?v=mn1GF7lweXQ",
+            "thumb": "https://img.youtube.com/vi/mn1GF7lweXQ/sddefault.jpg"
+          },
+          {
+            "title": "Titanic",
+            "url": "https://www.youtube.com/watch?v=wO44qBPBG4c",
+            "thumb": "https://img.youtube.com/vi/wO44qBPBG4c/sddefault.jpg"
+          },
+          {
+            "title": "Armageddon",
+            "url": "https://www.youtube.com/watch?v=ujMxXOHJloI",
+            "thumb": "https://img.youtube.com/vi/ujMxXOHJloI/sddefault.jpg"
+          },
+          {
+            "title": "Matrix",
+            "url": "https://www.youtube.com/watch?v=UvqDq2RLZdY",
+            "thumb": "https://img.youtube.com/vi/UvqDq2RLZdY/sddefault.jpg"
+          },
+          {
+            "title": "Iron Man",
+            "url": "https://www.youtube.com/watch?v=uXnDjItnOAs",
+            "thumb": "https://img.youtube.com/vi/uXnDjItnOAs/sddefault.jpg"
+          },
+          {
+            "title": "The Gangster",
+            "url": "https://www.youtube.com/watch?v=4HZmsJaiTEk",
+            "thumb": "https://img.youtube.com/vi/4HZmsJaiTEk/sddefault.jpg"
+          }
+        ],
+      "front-end": [
+        {
+          "title": "Tudo sobre Carreira em Front End com as instrutoras Rafa Ballerini, Ju Negreiros e Aline Bastos",
+          "url": "https://www.youtube.com/watch?v=V0vxjhBhAWg",
+          "thumb": "https://img.youtube.com/vi/V0vxjhBhAWg/sddefault.jpg"
+        },
+        {
+          "title": "O que estudar para conseguir um emprego com front-end",
+          "url": "https://www.youtube.com/watch?v=HxVGCjTtzOQ",
+          "thumb": "https://img.youtube.com/vi/HxVGCjTtzOQ/sddefault.jpg"
+        },
+        {
+          "title": "Como APRENDER um FRAMEWORK Front End? Como eu aprendi Angular?",
+          "url": "https://www.youtube.com/watch?v=mMMqMk2buzs",
+          "thumb": "https://img.youtube.com/vi/mMMqMk2buzs/sddefault.jpg"
+        },
+        {
+          "title": "Métricas para o Front End com Mario Souto | #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=iVNR-6v8lZU",
+          "thumb": "https://img.youtube.com/vi/iVNR-6v8lZU/sddefault.jpg"
+        },
+        {
+          "title": "Figma para devs | Mod00 - Aula 05",
+          "url": "https://www.youtube.com/watch?v=NcsLdSgvo1o",
+          "thumb": "https://img.youtube.com/vi/NcsLdSgvo1o/sddefault.jpg"
+        },
+        {
+          "title": "Alura Live #58 - O caminho do desenvolvedor Fullstack, como se tornar um?",
+          "url": "https://www.youtube.com/watch?v=jC98XI1G3uo",
+          "thumb": "https://img.youtube.com/vi/jC98XI1G3uo/sddefault.jpg"
+        },
+        {
+          "title": "Como se tornar um desenvolvedor FRONTEND? (Passo a passo / Roadmap)",
+          "url": "https://www.youtube.com/watch?v=LqXqBgIUbJg",
+          "thumb": "https://img.youtube.com/vi/LqXqBgIUbJg/sddefault.jpg"
+        }
+       
+        
+      ],
+      "back-end": [
+        {
+          "title": "O que estudar para ser desenvolvedor backend",
+          "url": "https://www.youtube.com/watch?v=3Wo4L2dPS58",
+          "thumb": "https://img.youtube.com/vi/3Wo4L2dPS58/sddefault.jpg"
+        },
+        {
+          "title": "Kotlin, Micronaut e Back-end com Alberto Sousa | #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=PV9FoHvVE8k",
+          "thumb": "https://img.youtube.com/vi/PV9FoHvVE8k/sddefault.jpg"
+        },
+        
+        {
+          "title": "Quais são meus próximos passos com React?",
+          "url": "https://www.youtube.com/watch?v=dJkFHeknMVw",
+          "thumb": "https://img.youtube.com/vi/dJkFHeknMVw/sddefault.jpg"
+        },
+        {
+          "title": "5 Projetos BACKEND para INICIANTES ( Guia programador - APRENDA a programar)",
+          "url": "https://www.youtube.com/watch?v=6d84jehVhog",
+          "thumb": "https://img.youtube.com/vi/6d84jehVhog/sddefault.jpg"
+        },
+        {
+          "title": "Desmistificando el Back-End",
+          "url": "https://www.youtube.com/watch?v=LLt7FreeHfQ",
+          "thumb": "https://img.youtube.com/vi/LLt7FreeHfQ/sddefault.jpg"
+        },
+        {
+          "title": "Por que StackOverflow? Aprendendo mais sobre estruturas de dados feat. Stack e o que é LIFO",
+          "url": "https://www.youtube.com/watch?v=kWqNDzAM-RU",
+          "thumb": "https://img.youtube.com/vi/kWqNDzAM-RU/sddefault.jpg"
+        },
+        {
+          "title": "Spring Boot Tutorial | Full Course [2022] [NEW]",
+          "url": "https://www.youtube.com/watch?v=9SGDpanrc8U&t=312s",
+          "thumb": "https://img.youtube.com/vi/9SGDpanrc8U/sddefault.jpg"
+        }
+      ]
+    }
+  }
