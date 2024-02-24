@@ -3,7 +3,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "homepage": "https://tomerpacific.github.io/aluratube/"
   },
   "dependencies": {
     "next": "^13.1.6",
